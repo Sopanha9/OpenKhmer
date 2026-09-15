@@ -1,0 +1,2 @@
+# OpenKhmer
+a Khmer OCR
